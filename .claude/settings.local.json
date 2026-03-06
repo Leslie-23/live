@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx expo install expo-av expo-file-system)",
+      "Bash(npx expo install expo-secure-store)"
+    ]
+  }
+}
